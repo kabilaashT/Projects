@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Assignment 4</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Displaying Chemical Molecule System</h1>
+    </header>
+
+    <nav>
+        <ul>
+          <li><a href="index.html" id="add-remove">Home Page</a></li><br> 
+        </ul>
+      </nav>
+
+<html>
+    <head><title>File Upload</title></head>
+    <body>
+      <!-- <h2>Select Molecule</h2>
+      <form id = "select">
+      <label for="molecule-name">Molecule Name:</label>
+      <select id="molecule-select" name="molecule-select"></select> -->
+      <h1>Select a molecule:</h1>
+      <label for="molecule-name">Molecule Name:</label>
+      <select id="selectMolecule"></select>
+      <script src="selectscript.js"></script>
+      </form>
+      <button id="showMol">Show molecule</button>
+      <br><br> 
+      
+      <div id="container"></div>
+      
+
+      <h2>Display Molecule</h2>
+      <form id = "display"></form>
+      <canvas id="molecule-canvas"></canvas>
+      <select id="rotation">
+        <option val="none">none</option>
+        <option val="x">90 x</option>
+        <option val="y">90 y</option>
+        <option val="z">90 z</option>
+      </select>
+      <button id="rotate-molecule">Rotate Molecule</button>
+      </form>
+    </body>
+    </html>

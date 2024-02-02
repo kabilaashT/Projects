@@ -1,0 +1,63 @@
+<svg version="1.1" width="1000" height="1000" 
+                    xmlns="http://www.w3.org/2000/svg">
+        <radialGradient id="Hydrogen" cx="-50%" cy="-50%" r="220%" fx="20%" fy="20%">
+        <stop offset="0%" stop-color="#FFFFFF"/> <stop offset="50%" stop-color="#050505"/> <stop offset="100%" stop-color="#020202"/>
+        </radialGradient>
+        <radialGradient id="Carbon" cx="-50%" cy="-50%" r="220%" fx="20%" fy="20%">
+        <stop offset="0%" stop-color="#808080"/> <stop offset="50%" stop-color="#010101"/> <stop offset="100%" stop-color="#000000"/>
+        </radialGradient>
+        <radialGradient id="Nitrogen" cx="-50%" cy="-50%" r="220%" fx="20%" fy="20%">
+        <stop offset="0%" stop-color="#0000FF"/> <stop offset="50%" stop-color="#000005"/> <stop offset="100%" stop-color="#000002"/>
+        </radialGradient>
+        <radialGradient id="Oxygen" cx="-50%" cy="-50%" r="220%" fx="20%" fy="20%">
+        <stop offset="0%" stop-color="#FF0000"/> <stop offset="50%" stop-color="#050000"/> <stop offset="100%" stop-color="#020000"/>
+        </radialGradient>  <circle cx="621.24" cy="253.08" r="25" fill="url(#Hydrogen)"/>
+  <circle cx="939.75" cy="648.84" r="25" fill="url(#Hydrogen)"/>
+ <polygon points="611.55,288.94 631.55,288.76 631.24,252.99 611.24,253.17" fill="green"/>
+  <circle cx="853.88" cy="804.75" r="25" fill="url(#Hydrogen)"/>
+  <circle cx="233.23" cy="618.12" r="25" fill="url(#Hydrogen)"/>
+  <circle cx="203.29" cy="793.58" r="25" fill="url(#Hydrogen)"/>
+ <polygon points="859.20,701.20 871.78,716.74 946.04,656.61 933.46,641.07" fill="green"/>
+ <polygon points="875.42,710.17 855.56,707.77 843.95,803.55 863.81,805.95" fill="green"/>
+ <polygon points="244.50,713.85 264.02,709.47 242.99,615.93 223.47,620.31" fill="green"/>
+ <polygon points="262.75,716.94 245.77,706.38 194.80,788.30 211.78,798.86" fill="green"/>
+  <circle cx="839.59" cy="442.39" r="40" fill="url(#Oxygen)"/>
+ <polygon points="729.54,495.04 739.62,512.32 844.63,451.03 834.55,433.75" fill="green"/>
+  <circle cx="865.49" cy="708.97" r="40" fill="url(#Carbon)"/>
+  <circle cx="734.58" cy="503.68" r="40" fill="url(#Carbon)"/>
+  <circle cx="621.55" cy="288.85" r="40" fill="url(#Carbon)"/>
+ <polygon points="741.99,629.53 732.35,647.05 860.67,717.73 870.31,700.21" fill="green"/>
+ <polygon points="727.17,638.48 747.17,638.10 744.58,503.49 724.58,503.87" fill="green"/>
+ <polygon points="623.92,426.72 613.76,443.94 729.50,512.29 739.66,495.07" fill="green"/>
+ <polygon points="608.84,435.15 628.84,435.51 631.55,289.03 611.55,288.67" fill="green"/>
+  <circle cx="737.17" cy="638.29" r="40" fill="url(#Nitrogen)"/>
+  <circle cx="618.84" cy="435.33" r="40" fill="url(#Nitrogen)"/>
+ <polygon points="613.50,701.52 623.86,718.62 742.35,646.84 731.99,629.74" fill="green"/>
+ <polygon points="495.45,490.80 504.97,508.38 623.60,444.12 614.08,426.54" fill="green"/>
+  <circle cx="500.21" cy="499.59" r="40" fill="url(#Carbon)"/>
+  <circle cx="618.68" cy="710.07" r="40" fill="url(#Carbon)"/>
+ <polygon points="495.04,508.15 505.38,491.03 401.16,428.00 390.82,445.12" fill="green"/>
+ <polygon points="488.29,640.59 508.29,640.87 510.21,499.73 490.21,499.45" fill="green"/>
+ <polygon points="503.28,632.06 493.30,649.40 613.69,718.74 623.67,701.40" fill="green"/>
+ <polygon points="628.44,712.27 608.92,707.87 579.56,838.14 599.08,842.54" fill="green"/>
+  <circle cx="395.99" cy="436.56" r="40" fill="url(#Oxygen)"/>
+  <circle cx="498.29" cy="640.73" r="40" fill="url(#Carbon)"/>
+  <circle cx="589.32" cy="840.34" r="40" fill="url(#Nitrogen)"/>
+ <polygon points="505.21,647.95 491.37,633.51 391.75,729.08 405.59,743.52" fill="green"/>
+ <polygon points="590.56,850.26 588.08,830.42 458.23,846.62 460.71,866.46" fill="green"/>
+  <circle cx="398.67" cy="736.30" r="40" fill="url(#Nitrogen)"/>
+ <polygon points="396.99,746.16 400.35,726.44 255.94,701.80 252.58,721.52" fill="green"/>
+ <polygon points="407.59,731.79 389.75,740.81 450.55,861.05 468.39,852.03" fill="green"/>
+  <circle cx="254.26" cy="711.66" r="40" fill="url(#Carbon)"/>
+  <circle cx="459.47" cy="856.54" r="40" fill="url(#Carbon)"/>
+ <polygon points="468.30,861.24 450.64,851.84 399.88,947.16 417.54,956.56" fill="green"/>
+  <circle cx="408.71" cy="951.86" r="25" fill="url(#Hydrogen)"/>
+ <polygon points="617.93,279.53 625.17,298.17 715.31,263.22 708.07,244.58" fill="green"/>
+ <polygon points="617.56,298.02 625.54,279.68 537.72,241.43 529.74,259.77" fill="green"/>
+  <circle cx="711.69" cy="253.90" r="25" fill="url(#Hydrogen)"/>
+ <polygon points="870.08,700.08 860.90,717.86 893.72,734.81 902.90,717.03" fill="green"/>
+  <circle cx="533.73" cy="250.60" r="25" fill="url(#Hydrogen)"/>
+ <polygon points="252.40,721.49 256.12,701.83 220.67,695.11 216.95,714.77" fill="green"/>
+  <circle cx="898.31" cy="725.92" r="25" fill="url(#Hydrogen)"/>
+  <circle cx="218.81" cy="704.94" r="25" fill="url(#Hydrogen)"/>
+</svg>

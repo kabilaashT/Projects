@@ -1,0 +1,26 @@
+/* css style sheet */
+
+/* ID - for only one tag */
+#label { font-style:italic; color:blue}
+#button { color:green}
+
+body {
+    background-color: rgb(251, 185, 128);
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  a:link, a:visited {
+    background-color: rgb(244, 130, 31);
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }

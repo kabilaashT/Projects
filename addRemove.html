@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Assignment 4</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="addremove.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Displaying Chemical Molecule System</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="index.html" id="add-remove">Home Page</a></li><br> 
+      </ul>
+    </nav>
+
+<main>
+    <div id="add-remove-container" class="hidden">
+      <h2>Add/Remove Elements</h2>
+      <form id="add-remove-form">
+        <label for="element-number">Element Number:</label>
+        <input type="number" id="element-number" name="element-number">
+        <br><br> 
+        
+        <label for="element-code">Element Code:</label>
+        <input type="text" id="element-code" name="element-code">
+        <br><br> 
+        
+        <label for="element-name">Element Name:</label>
+        <input type="text" id="element-name" name="element-name">
+        <br><br> 
+        
+        <label for="element-colors">Element Color 1:</label>
+        <input type="text" id="element-colors-1" name="element-colors-1">
+        <br><br> 
+
+        <label for="element-colors">Element Color 2:</label>
+        <input type="text" id="element-colors-2" name="element-colors-2">
+        <br><br> 
+
+        <label for="element-colors">Element Color 3:</label>
+        <input type="text" id="element-colors-3" name="element-colors-3">
+        <br><br> 
+        
+        <label for="element-radius">Element Radius:</label>
+        <input type="number" id="element-radius" name="element-radius">
+        <br><br> 
+        
+        <button type="submit">Add Element</button>
+      </form>
+
+      <select id="elements-list">
+      </select>
+      <button type="button" id="remove-element">Remove Element</button>
+    </div>
